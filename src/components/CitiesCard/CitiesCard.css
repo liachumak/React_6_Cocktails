@@ -1,0 +1,19 @@
+.common-city-card{
+    border: 1px solid silver;
+    height: 250px;
+    width: 160px;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background: linear-gradient(0deg, rgba(124,124,128,1) 0%, rgb(189, 238, 247) 100%);
+  }
+  
+.card{
+  display: inline-flex;
+  margin-left: 10px;
+  
+}
+  
